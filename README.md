@@ -8,5 +8,5 @@ Colocar em prática novos conhecimentos adquiridos de HTML5 e CSS3!
 
 ### Link
 
-O link do site se encontra aqui: 
+O link do site se encontra aqui: https://luccasgreff.github.io/site-cordel/
  
